@@ -18,7 +18,7 @@ Change the number of times to loop in either test to make the test longer or sho
 Results will be displayed by console.log and appended to a results.txt file along with a dated timestamp.
 
 ## Upcoming
-- Code seperated and organized into further parts.
+- Code seperated and organized into further parts to be more modular.
 - An interface to choose test, and number of times to iterate the test loops.
 - Additional benchmarking tests.
 - Seperate test interfaces or implementations for browsers, nw.js, electron, cordova, phonegap, node.js and graalvm.
